@@ -58,3 +58,4 @@ chain.invoke({"topic": "earth"})
 
 
 ### RESULT:
+Thus, the LangChain Expression Language (LCEL) expression was successfully designed and implemented using two prompt parameters and three components: prompt, model, and output parser. The chain was executed successfully to generate the desired output.
